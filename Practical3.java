@@ -55,4 +55,5 @@ public class Practical3
                     System.out.println(s1.pop());
         System.out.println("Top element: "+s1.peek());
     }
+
 }
